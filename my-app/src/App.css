@@ -9,4 +9,6 @@ ul li {
   grid-gap: 10px;
   max-width: 1300px;
 }
-
+.app-wrapper-content {
+  background-color: yellow;
+}
